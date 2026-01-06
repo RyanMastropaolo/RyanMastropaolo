@@ -10,9 +10,11 @@ In my spare time, I love to work out and cook!
 📂 [Repository](https://github.com/RyanMastropaolo/SynTrade)
 
 SynTrade is a hybrid multi-agent trading system that combining sentiment analysis and technical indicators. It introduces a validation layer that verifies heterogeneous signals before execution, improving risk-adjusted performance metrics. 
+
 **Stack:** 
 - Python • Backtrader • LightGBM • Google Gemini API • pandas • NumPy • Matplotlib
 - APIs: Finnhub • FRED • NewsAPI.ai • Alpha Vantage • yfinance
+
 **Highlights:**
 - Multi-agent system
 - Backtesting engine with Backtrader
@@ -29,8 +31,10 @@ SynTrade is a hybrid multi-agent trading system that combining sentiment analysi
 📂 [Repository](https://github.com/RyanMastropaolo/MonteCarloBlackScholesComparisonMathematicsSeniorCapstone)
 
 This project compares Monte Carlo and Black–Scholes option pricing under identical geometric Brownian motion assumptions, using real market data to demonstrate the convergence.
+
 **Stack:** 
 - Python • NumPy • pandas • SciPy (stats, optimize) • yfinance  
+
 **Highlights:**
 - End-to-end Black–Scholes vs. Monte Carlo call option pricing pipeline (risk-neutral GBM)
 - Live market data integration via yfinance
