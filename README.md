@@ -2,7 +2,7 @@
 
 I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**. In my spare time, I love to work out and cook!
 
-## Featured Projects 💻
+## Featured Projects:
 
 ### **SynTrade Computer Science Senior Capstone**  
 
@@ -48,7 +48,7 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
 - Automated dividend yield estimation with robust fallbacks for non-dividend/dividend tickers
 ---
 
-## Languages & Tools 🧰
+## Languages & Tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -74,7 +74,7 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
 
 
 
-## Contact Me 📬
+## Contact Me:
 
 - LinkedIn: https://www.linkedin.com/in/ryan-mastropaolo/
 - Email: ryanmastropaolo2022@gmail.com
