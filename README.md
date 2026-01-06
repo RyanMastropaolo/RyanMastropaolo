@@ -26,7 +26,6 @@ SynTrade is a hybrid multi-agent trading system that combining sentiment analysi
 - Decision logging and evaluation
 - Visualization: equity curves, metrics, agent analysis
 - Baseline comparisons: buy-and-hold, technical-only strategies
---
 
 ### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstonee**  
 
@@ -46,7 +45,6 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
 - Vectorized Monte Carlo simulation with configurable paths/steps
 - Uncertainty reporting: standard error + 95% confidence interval on MC price
 - Automated dividend yield estimation with robust fallbacks for non-dividend/dividend tickers
---
 
 ## Languages & Tools:
 
