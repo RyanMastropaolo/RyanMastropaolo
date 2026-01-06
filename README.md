@@ -7,7 +7,7 @@ I'm a senior double major in **Mathematics** and **Computer Science** at **Sacre
 ### **SynTrade Computer Science Senior Capstone**  
 
 <a href="https://github.com/RyanMastropaolo/SynTrade">
-  <img src="https://img.shields.io/badge/SynTrade-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SynTrade-Repository-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 SynTrade is a hybrid multi-agent trading system that combining sentiment analysis and technical indicators. It introduces a validation layer that verifies heterogeneous signals before execution, improving risk-adjusted performance metrics. 
@@ -31,7 +31,7 @@ SynTrade is a hybrid multi-agent trading system that combining sentiment analysi
 ### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstonee**  
 
 <a href="https://github.com/RyanMastropaolo/MonteCarloBlackScholesComparisonMathematicsSeniorCapstone">
-  <img src="https://img.shields.io/badge/Monte%20Carlo%20vs%20Black--Scholes-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monte%20Carlo%20vs%20Black--Scholes-Repository-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 This project compares Monte Carlo and Black–Scholes option pricing under identical geometric Brownian motion assumptions, using real market data to demonstrate the convergence.
