@@ -5,9 +5,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ryanmastropaolo2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ryanmastropaolo2022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<p align="left">
+  <code>ryanmastropaolo2022@gmail.com</code>
+  <a href="copy:ryanmastropaolo2022@gmail.com" title="Copy email">📋</a>
+</p>
+
 
 I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**.
 
