@@ -55,7 +55,7 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.png" height="40" alt="Flask"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
   <img width="12"/>
@@ -63,6 +63,7 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
 </p>
+
 
 
 ## Contact Me 📬
