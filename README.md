@@ -2,49 +2,6 @@
 
 I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**. In my spare time, I love to work out and cook!
 
-## Featured Projects:
-
-### **SynTrade Computer Science Senior Capstone**  
-
-<a href="https://github.com/RyanMastropaolo/SynTrade">
-  <img src="https://img.shields.io/badge/Repository-2F80ED?style=flat&logo=github&logoColor=white" />
-</a>
-
-SynTrade is a hybrid multi-agent trading system that combining sentiment analysis and technical indicators. It introduces a validation layer that verifies heterogeneous signals before execution, improving risk-adjusted performance metrics. 
-
-**Stack:** 
-- Python • Backtrader • LightGBM • Google Gemini API • pandas • NumPy • Matplotlib
-- APIs: Finnhub • FRED • NewsAPI.ai • Alpha Vantage • yfinance
-
-**Highlights:**
-- Multi-agent system
-- Backtesting engine with Backtrader
-- Data pipeline: news, SEC filings, fundamentals, macro indicators, technicals
-- ML models: sentiment and credibility scoring with LightGBM
-- LLM integration: Gemini for sentiment/credibility analysis
-- Risk management: stop-loss, profit-taking, trend reversal exits
-- Decision logging and evaluation
-- Visualization: equity curves, metrics, agent analysis
-- Baseline comparisons: buy-and-hold, technical-only strategies
-
-### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstonee**  
-
-<a href="https://github.com/RyanMastropaolo/MonteCarloBlackScholesComparisonMathematicsSeniorCapstone">
-  <img src="https://img.shields.io/badge/Repository-2F80ED?style=flat&logo=github&logoColor=white" />
-</a>
-
-This project compares Monte Carlo and Black–Scholes option pricing under identical geometric Brownian motion assumptions, using real market data to demonstrate the convergence.
-
-**Stack:** 
-- Python • NumPy • pandas • SciPy (stats, optimize) • yfinance  
-
-**Highlights:**
-- End-to-end Black–Scholes vs. Monte Carlo call option pricing pipeline (risk-neutral GBM)
-- Live market data integration via yfinance
-- Implied volatility calibration from market option prices using Brent root-finding
-- Vectorized Monte Carlo simulation with configurable paths/steps
-- Uncertainty reporting: standard error + 95% confidence interval on MC price
-- Automated dividend yield estimation with robust fallbacks for non-dividend/dividend tickers
 
 ## Languages & Tools:
 
@@ -71,9 +28,48 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
 </p>
 
 
-
 ## Contact Me:
 
 - LinkedIn: https://www.linkedin.com/in/ryan-mastropaolo/
 - Email: ryanmastropaolo2022@gmail.com
+
+
+## Featured Projects:
+
+### **SynTrade Computer Science Senior Capstone**  
+
+<a href="https://github.com/RyanMastropaolo/SynTrade">
+  <img src="https://img.shields.io/badge/Repository-2F80ED?style=flat&logo=github&logoColor=white" />
+</a>
+
+SynTrade is a hybrid multi-agent trading system that combining sentiment analysis and technical indicators. It introduces a validation layer that verifies heterogeneous signals before execution, improving risk-adjusted performance metrics. 
+
+**Stack:** 
+- Python • Backtrader • LightGBM • Google Gemini API • pandas • NumPy • Matplotlib
+- APIs: Finnhub • FRED • NewsAPI.ai • Alpha Vantage • yfinance
+
+
+**Highlights:**
+- Modular multi-agent trading system with a validation/critic layer before execution
+- Backtrader backtesting + baseline comparisons (buy-and-hold, technical-only)
+- Multi-source data pipeline (news + macro + fundamentals + technicals)
+- LightGBM models + Gemini LLM integration for sentiment/credibility scoring
+- Risk controls + logging/analytics (stops/exits, decision logs, performance visualizations)
+
+### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstonee**  
+
+<a href="https://github.com/RyanMastropaolo/MonteCarloBlackScholesComparisonMathematicsSeniorCapstone">
+  <img src="https://img.shields.io/badge/Repository-2F80ED?style=flat&logo=github&logoColor=white" />
+</a>
+
+This project compares Monte Carlo and Black–Scholes option pricing under identical geometric Brownian motion assumptions, using real market data to demonstrate the convergence.
+
+**Stack:** 
+- Python • NumPy • pandas • SciPy (stats, optimize) • yfinance  
+
+**Highlights:**
+- End-to-end Black–Scholes vs. Monte Carlo call option pricing (risk-neutral GBM)
+- Live inputs via yfinance
+- Implied volatility calibration from market prices
+- Vectorized Monte Carlo with standard error + 95% CI reporting
 
