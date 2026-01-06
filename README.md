@@ -2,11 +2,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-mastropaolo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ryanmastropaolo2022@gmail.com?subject=Hello%20Ryan&body=Hi%20Ryan%2C%0A%0AI'm%20reaching%20out%20from%20your%20GitHub%20profile.%0A%0AThanks%2C%0A">
-  <img src="https://img.shields.io/badge/Contact-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <code>ryanmastropaolo2022@gmail.com</code>
+  <a href="mailto:ryanmastropaolo2022@gmail.com" title="Email me" aria-label="Email me">✉️</a>
+</p>
+
 
 
 
@@ -67,7 +68,7 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12"/>
