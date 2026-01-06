@@ -1,8 +1,6 @@
 # Hi there, I'm <span style="color: #2F80ED;">Ryan</span>! 👋
 
-I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**.
-
-In my spare time, I love to work out and cook!
+I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**. In my spare time, I love to work out and cook!
 
 ## Featured Projects 💻
 
