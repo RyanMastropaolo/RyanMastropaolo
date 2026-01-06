@@ -1,15 +1,5 @@
 # Hi there, I'm <span style="color: #2F80ED;">Ryan</span>! 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ryan-mastropaolo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-<p align="left">
-  <code>ryanmastropaolo2022@gmail.com</code>
-  <a href="mailto:ryanmastropaolo2022@gmail.com" title="Email me" aria-label="Email me">✉️</a>
-</p>
-
 I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**.
 
 ## Featured Projects 💻
@@ -71,3 +61,9 @@ This project compares Monte Carlo and Black–Scholes option pricing under ident
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 </p>
+
+## Contact Me 📬
+
+- LinkedIn: https://www.linkedin.com/in/ryan-mastropaolo/
+- Email: ryanmastropaolo2022@gmail.com
+
