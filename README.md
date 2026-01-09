@@ -5,12 +5,10 @@ I'm a senior double major in **Mathematics** and **Computer Science** at **Sacre
 ## Current Projects:
 
 ### USPIS FOIA Attack Data Analytics
-1) Project Summary:
-
+1) Project Summary: \\
 I am currently converting a large USPIS FOIA file (200,000+ reported attacks) from a raw, non-analysis-friendly format into a clean, structured, analytics-ready dataset. After converting the file, I am analyzing attack patterns to produce actionable, location-specific insights that help leadership communicate impact, improve awareness, and support outreach to policymakers—especially in the hardest-hit congressional districts and states.
 
-2) Goals & Outcomes:
-
+2) Goals & Outcomes: \\
 - Transform raw FOIA files into a usable dataset (consistent schema, validated fields, reproducible process).
 - Quantify and localize attack trends across geography and time.
 - Identify hardest-hit areas (district/state-level summaries and rankings).
