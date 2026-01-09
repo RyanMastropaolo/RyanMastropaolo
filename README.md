@@ -2,6 +2,12 @@
 
 I'm a senior double major in **Mathematics** and **Computer Science** at **Sacred Heart University**, pursuing a career in **Quantitative Finance**. In my spare time, I love to work out and cook!
 
+## Current Projects:
+
+### United States Postal Inspection Service Data Analytics
+
+
+### UConn Women's Basketball Data Analytics
 
 ## Featured Projects:
 
