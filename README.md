@@ -36,7 +36,7 @@ SynTrade is a hybrid multi-agent trading system that combining sentiment analysi
 - LightGBM models + Gemini LLM integration for sentiment/credibility scoring
 - Risk controls + logging/analytics (stops/exits, decision logs, performance visualizations)
 
-### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstonee**  
+### **Monte Carlo vs. Black–Scholes Mathematics Senior Capstone**  
 
 <a href="https://github.com/RyanMastropaolo/MonteCarloBlackScholesComparisonMathematicsSeniorCapstone">
   <img src="https://img.shields.io/badge/Repository-2F80ED?style=flat&logo=github&logoColor=white" />
